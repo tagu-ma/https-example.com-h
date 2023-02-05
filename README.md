@@ -1,21 +1,18 @@
 # Project Title
-A brief description of your project and what it does.
+A brief description of your project, including information about the HTML file provided above.
 
+## Purpose
+Explain the purpose of the HTML file and what it does.
 
 ## Getting Started
-Instructions on how to install and set up the project on your local machine.
+Instructions on how to run the HTML file in a browser.
 
-### Prerequisites
-List of dependencies and tools required to run the project.
+## Built With
+- HTML
+- CSS
 
-### Installation
-Step-by-step guide on how to install the required dependencies and set up the project.
-
-## Usage
-Instructions on how to use the project.
-
-## Contributing
-Guideline on how to contribute to the project.
+## Authors
+List of contributors or authors who have worked on the project.
 
 ## License
 Information about the license under which the project is released.
